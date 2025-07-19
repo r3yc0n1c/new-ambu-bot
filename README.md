@@ -50,6 +50,8 @@ flask run
 2. **Follow the prompts** to provide your location and any additional details.
 3. **Receive confirmation** when an ambulance is dispatched to your location.
 
+## Screenshot
+<img width="1220" height="553" alt="bot" src="https://github.com/user-attachments/assets/8506795c-bdaf-4229-b380-36e76b5395f9" />
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request if you'd like to contribute to Abubot.
